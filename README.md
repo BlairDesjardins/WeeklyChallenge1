@@ -1,4 +1,4 @@
-# WeeklyChallenge1
+# Weekly Challenge 1
 
 ## Walk on the Axis:
 
